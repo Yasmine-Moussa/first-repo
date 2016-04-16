@@ -10,5 +10,5 @@ var print = function(word){
 
 var hamada = function(hamada){
 
-	consol.log(hamada)
+	consol.log(hamda)
 }
